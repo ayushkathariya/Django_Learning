@@ -13,8 +13,6 @@
 # Ignore log files
 *.log
 
-# Ignore static files collected by Django
-/staticfiles/
 
 # Ignore media files uploaded by users
 /media/
