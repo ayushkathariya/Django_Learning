@@ -19,6 +19,8 @@
 
 # Ignore the virtual environment directory
 .venv/
+venv
+myvenv
 
 # Ignore IDE-specific files and directories
 .vscode/
